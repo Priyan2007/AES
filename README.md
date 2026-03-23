@@ -23,7 +23,7 @@ void xorCrypt(char msg[], char key[])
 
 int main()
 {
-    char msg[] = "SRI HARI KRISHNA";
+    char msg[] = "PRIYAN";
     char key[] = "secretkey";
 
     printf("Original: %s\n", msg);
